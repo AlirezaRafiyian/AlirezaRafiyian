@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://arpcode.com/](https://arpcode.com/)
 
-- 📝 I regularly write articles on [https://arpcode.com/blog/](https://arpcode.com/blog/)
-
 - 📫 How to reach me **iamalirezarafiyian@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
